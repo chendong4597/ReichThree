@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ReichThree.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ReichThree.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ReichThreeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ReichThree">
+      <UniqueIdentifier>{48F8B61A-372D-3C06-92B0-B6F415AE7838}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ReichThree\Hero.cpp">
+      <Filter>Source\ReichThree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\Hero.h">
+      <Filter>Source\ReichThree</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\ReichThree\ReichThree.Build.cs">
+      <Filter>Source\ReichThree</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ReichThree\ReichThree.cpp">
+      <Filter>Source\ReichThree</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\ReichThree.h">
+      <Filter>Source\ReichThree</Filter>
+    </ClCompile>
+    <Filter Include="Source\ReichThree\Common">
+      <UniqueIdentifier>{A57D0B6D-C0D5-3AAA-B4B7-9ABA40D24512}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ReichThree\Common\CommonDefines.cpp">
+      <Filter>Source\ReichThree\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\Common\CommonDefines.h">
+      <Filter>Source\ReichThree\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\Common\RootEventObject.cpp">
+      <Filter>Source\ReichThree\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\Common\RootEventObject.h">
+      <Filter>Source\ReichThree\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\Common\UIEvents.cpp">
+      <Filter>Source\ReichThree\Common</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\Common\UIEvents.h">
+      <Filter>Source\ReichThree\Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\ReichThree\UI">
+      <UniqueIdentifier>{dc7d30ba-566e-4979-9ec3-ea5b384c3925}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
