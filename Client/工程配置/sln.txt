@@ -1,0 +1,9 @@
+E:\ReichThree\Client\ReichThree\static\static_msg
+E:\ReichThree\Client\ReichThree\static\static_logic
+E:\ReichThree\Client\ReichThree\static\static_data
+E:\ReichThree\Client\ReichThree\bzbee\libbaseutil\source
+E:\ReichThree\Client\ReichThree\bzbee\libnetwork\source
+E:\ReichThree\Client\ReichThree\external\libprotobuf\source
+
+
+E:\ReichThree\Client\ReichThree\x64\Release
