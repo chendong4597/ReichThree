@@ -81,6 +81,18 @@
     <Filter Include="Source\ReichThree\UI">
       <UniqueIdentifier>{7E53F949-9226-3146-8221-2A02812B256A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\ReichThree\UI\UILogin.cpp">
+      <Filter>Source\ReichThree\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\UI\UILogin.h">
+      <Filter>Source\ReichThree\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\UI\UIManager.cpp">
+      <Filter>Source\ReichThree\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\UI\UIManager.h">
+      <Filter>Source\ReichThree\UI</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\ReichThree\UI\UIWindow.cpp">
       <Filter>Source\ReichThree\UI</Filter>
     </ClCompile>
@@ -89,12 +101,18 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\ReichThree\UI\UIManager.cpp">
+    <ClCompile Include="..\..\Source\ReichThree\UI\UILobby.cpp">
+      <Filter>Source\ReichThree\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReichThree\UI\UICurMaterials.cpp">
       <Filter>Source\ReichThree\UI</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\ReichThree\UI\UIManager.h">
+    <ClInclude Include="..\..\Source\ReichThree\UI\UILobby.h">
+      <Filter>Source\ReichThree\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\ReichThree\UI\UICurMaterials.h">
       <Filter>Source\ReichThree\UI</Filter>
     </ClInclude>
   </ItemGroup>

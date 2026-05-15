@@ -303,8 +303,7 @@ public class ReichThree : ModuleRules
         else
         {
             PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "Slate", "SlateCore", "InputCore",
-                "EnhancedInput", "HeadMountedDisplay", "NavigationSystem", "AIModule", "PakFile", "UMG", "AIModule", "OnlineSubsystem",
-                "OnlineSubsystemSteam"});
+                "EnhancedInput", "HeadMountedDisplay", "NavigationSystem", "AIModule", "PakFile", "UMG", "AIModule"});
 
             PublicDefinitions.Add("FMT_GCC_VERSION=11"); // 根据实际 GCC 版本修改
             PublicDefinitions.Add("PLATFORM_HTML5=1");
